@@ -4,7 +4,7 @@
 <p align="center">Focado em resolver grandes desafios usando tecnologia.❤️ <br><br> Do desenvolvimento backend ao desenvolvimento frontend, estou<strong> apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=47.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gui-Hornig&theme=radical&mode=weekly" />
+
 
 <img width=40.1% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Gui-Hornig&show_icons=true&theme=radical&layout=compact" />
  </div>
