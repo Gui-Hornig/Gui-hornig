@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+hornig!;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 
-<p align="center">Focado em resolver grandes desafios usando tecnologia.❤️ <br><br> Do desenvolvimento backend ao desenvolvimento frontend, estou<strong> apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.</p>&nbsp;
+<p align="center">Focado em resolver grandes desafios usando tecnologia.❤️ <br><br> Do desenvolvimento backend ao desenvolvimento frontend, estou<strong> apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack </strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
